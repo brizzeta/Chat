@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\Owner\Downloads\Telegram Desktop\UDPMulticast\UDPClient\Client.cpp(24,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owner\Downloads\Telegram Desktop\UDPMulticast\UDPClient\Client.cpp(122,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  UDPClient.vcxproj -> C:\Users\Owner\Downloads\Telegram Desktop\UDPMulticast\x64\Debug\UDPClient.exe
